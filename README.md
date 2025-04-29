@@ -34,7 +34,7 @@
 ## 📂 Featured Projects
 - 🔹 [Conversor de Moedas](https://github.com/Almeidadp/Conversor_de_moedas)
 - 🔹 [Challenge Amigo Secreto](https://github.com/Almeidadp/challenge-amigo-secreto-pt-br)
-- 🔹 [Análise de Dados de Cãncer no Brasil (2015 a 2014)](https://github.com/Almeidadp/Analise_cancer_brasill)
+- 🔹 [Análise de Dados de Câncer no Brasil (2015 a 2014)](https://github.com/Almeidadp/Analise_cancer_brasill)
 
 
 
